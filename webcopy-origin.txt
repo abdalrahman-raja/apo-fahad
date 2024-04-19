@@ -1,0 +1,372 @@
+Uri: https://fonts.googleapis.com/css?family=Cairo:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Karla:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Abril+Fatface:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Manrope:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.5.2
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/abrilfatface/v23/zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\abrilfatface\v23\zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v28/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hAc5a1PiKQ.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\cairo\v28\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hAc5a1PiKQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v28/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hD45a1PiKQ.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\cairo\v28\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hD45a1PiKQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v28/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hEk5a1PiKQ.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\cairo\v28\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hEk5a1PiKQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v28/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hGA-a1PiKQ.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\cairo\v28\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hGA-a1PiKQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v28/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hGA5a1PiKQ.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\cairo\v28\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hGA5a1PiKQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v28/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hL4-a1PiKQ.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\cairo\v28\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hL4-a1PiKQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v28/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hNI-a1PiKQ.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\cairo\v28\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hNI-a1PiKQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cairo/v28/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hOA-a1PiKQ.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\cairo\v28\SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hOA-a1PiKQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqaE0lP.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqaE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJ2aE0lP.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDeJ2aE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJqaE0lP.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDeJqaE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDH52aE0lP.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDH52aE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2aE0lP.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2aE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDppqaE0lP.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDppqaE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBIXvYC6trAT55ZBi1ueQVIjQTDypqaE0lP.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\karla\v31\qkBIXvYC6trAT55ZBi1ueQVIjQTDypqaE0lP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNkcV3lIb7Y.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNkcV3lIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV3lIb7Y.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV3lIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlwV3lIb7Y.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlwV3lIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmcUHlIb7Y.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmcUHlIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUHlIb7Y.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUHlIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCUHlIb7Y.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCUHlIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/karla/v31/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCV3lIb7Y.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\karla\v31\qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCV3lIb7Y.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE9_C-bw.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_C-bw.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E9_C-bw.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FN_C-bw.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFN_C-bw.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_C-bw.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFN_C-bw.ttf
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://takupkhdmat.com/
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\index.htm
+Content Type: text/html
+
+Uri: https://takupkhdmat.com/comments/feed/
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://takupkhdmat.com/feed/
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://takupkhdmat.com/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/css/main.css?ver=3.34
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\click-to-chat-for-whatsapp\new\inc\assets\css\main.css
+Content Type: text/css
+
+Uri: https://takupkhdmat.com/wp-content/plugins/click-to-chat-for-whatsapp/new/inc/assets/js/app.js?ver=3.34
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\click-to-chat-for-whatsapp\new\inc\assets\js\app.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite-rtl.min.css?ver=3.19.2
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\elementor-pro\assets\css\frontend-lite-rtl.min.css
+Content Type: text/css
+
+Uri: https://takupkhdmat.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.19.2
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.19.2
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.19.2
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-content/plugins/elementor/assets/css/frontend-lite-rtl.min.css?ver=3.19.4
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\elementor\assets\css\frontend-lite-rtl.min.css
+Content Type: text/css
+
+Uri: https://takupkhdmat.com/wp-content/plugins/elementor/assets/css/widget-icon-box-rtl.min.css
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\elementor\assets\css\widget-icon-box-rtl.min.css
+Content Type: text/css
+
+Uri: https://takupkhdmat.com/wp-content/plugins/elementor/assets/css/widget-icon-list-rtl.min.css
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\elementor\assets\css\widget-icon-list-rtl.min.css
+Content Type: text/css
+
+Uri: https://takupkhdmat.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.19.4
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.19.4
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.19.4
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.19.4
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://takupkhdmat.com/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://takupkhdmat.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-content/plugins/elementor/assets/mask-shapes/circle.svg
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\elementor\assets\mask-shapes\circle.svg
+Content Type: image/svg+xml
+
+Uri: https://takupkhdmat.com/wp-content/plugins/wp-call-button/assets/block/build/index.css?ver=a1dbfd3fcfcfb0740ca8c4771bbdc4c3
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\plugins\wp-call-button\assets\block\build\index.css
+Content Type: text/css
+
+Uri: https://takupkhdmat.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.0.1
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.0.1
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: https://takupkhdmat.com/wp-content/themes/hello-elementor/style.min.css?ver=3.0.1
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://takupkhdmat.com/wp-content/themes/hello-elementor/theme.min.css?ver=3.0.1
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/معروف1-1-1.webp
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\معروف1-1-1.webp
+Content Type: image/webp
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/1031796812_0_0_1953_1953_1440x900_80_0_1_6f23581443fad55e3de5d7a892e46aa4.jpg-150x150.webp
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\1031796812_0_0_1953_1953_1440x900_80_0_1_6f23581443fad55e3de5d7a892e46aa4.jpg-150x150.webp
+Content Type: image/webp
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/1031796812_0_0_1953_1953_1440x900_80_0_1_6f23581443fad55e3de5d7a892e46aa4.jpg-300x300.webp
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\1031796812_0_0_1953_1953_1440x900_80_0_1_6f23581443fad55e3de5d7a892e46aa4.jpg-300x300.webp
+Content Type: image/webp
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/1031796812_0_0_1953_1953_1440x900_80_0_1_6f23581443fad55e3de5d7a892e46aa4.jpg-768x768.webp
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\1031796812_0_0_1953_1953_1440x900_80_0_1_6f23581443fad55e3de5d7a892e46aa4.jpg-768x768.webp
+Content Type: image/webp
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/1031796812_0_0_1953_1953_1440x900_80_0_1_6f23581443fad55e3de5d7a892e46aa4.jpg.webp
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\1031796812_0_0_1953_1953_1440x900_80_0_1_6f23581443fad55e3de5d7a892e46aa4.jpg.webp
+Content Type: image/webp
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/6a514ed7c5-removebg-preview-1-150x150.png
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\6a514ed7c5-removebg-preview-1-150x150.png
+Content Type: image/png
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/6a514ed7c5-removebg-preview-1.png
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\6a514ed7c5-removebg-preview-1.png
+Content Type: image/png
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/abufahed.png
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\abufahed.png
+Content Type: image/png
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/arab-guy-engrossed-video-conference-call-with-coworker-his-smartphone-he-expertly-uses-wireless-technology-work-research-showcasing-his-digital-communication-skills-e1708768771793-260x300.webp
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\arab-guy-engrossed-video-conference-call-with-coworker-his-smartphone-he-expertly-uses-wireless-technology-work-research-showcasing-his-digital-communication-skills-e170-1.webp
+Content Type: image/webp
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/arab-guy-engrossed-video-conference-call-with-coworker-his-smartphone-he-expertly-uses-wireless-technology-work-research-showcasing-his-digital-communication-skills-e1708768771793-768x885.webp
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\arab-guy-engrossed-video-conference-call-with-coworker-his-smartphone-he-expertly-uses-wireless-technology-work-research-showcasing-his-digital-communication-skills-e170-3.webp
+Content Type: image/webp
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/arab-guy-engrossed-video-conference-call-with-coworker-his-smartphone-he-expertly-uses-wireless-technology-work-research-showcasing-his-digital-communication-skills-e1708768771793-888x1024.webp
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\arab-guy-engrossed-video-conference-call-with-coworker-his-smartphone-he-expertly-uses-wireless-technology-work-research-showcasing-his-digital-communication-skills-e170-2.webp
+Content Type: image/webp
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/arab-guy-engrossed-video-conference-call-with-coworker-his-smartphone-he-expertly-uses-wireless-technology-work-research-showcasing-his-digital-communication-skills-e1708768771793.webp
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\arab-guy-engrossed-video-conference-call-with-coworker-his-smartphone-he-expertly-uses-wireless-technology-work-research-showcasing-his-digital-communication-skills-e17087.webp
+Content Type: image/webp
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/logoabofahed.png
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\logoabofahed.png
+Content Type: image/png
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/mada.png
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\mada.png
+Content Type: image/png
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/master.png
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\master.png
+Content Type: image/png
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/ministry-of-foreign-affairs-logo-150x150.png
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\ministry-of-foreign-affairs-logo-150x150.png
+Content Type: image/png
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/ministry-of-foreign-affairs-logo.png
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\ministry-of-foreign-affairs-logo.png
+Content Type: image/png
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/Saudi.svg
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\Saudi.svg
+Content Type: image/svg+xml
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/transfer.png
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\transfer.png
+Content Type: image/png
+
+Uri: https://takupkhdmat.com/wp-content/uploads/2024/02/visa.png
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\2024\02\visa.png
+Content Type: image/png
+
+Uri: https://takupkhdmat.com/wp-content/uploads/elementor/css/post-14.css?ver=1709856412
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\elementor\css\post-14.css
+Content Type: text/css
+
+Uri: https://takupkhdmat.com/wp-content/uploads/elementor/css/post-28.css?ver=1709856412
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\elementor\css\post-28.css
+Content Type: text/css
+
+Uri: https://takupkhdmat.com/wp-content/uploads/elementor/css/post-31.css?ver=1709856412
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\elementor\css\post-31.css
+Content Type: text/css
+
+Uri: https://takupkhdmat.com/wp-content/uploads/elementor/css/post-44.css?ver=1709856412
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-content\uploads\elementor\css\post-44.css
+Content Type: text/css
+
+Uri: https://takupkhdmat.com/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://takupkhdmat.com/wp-json/
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://takupkhdmat.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftakupkhdmat.com%2F
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://takupkhdmat.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftakupkhdmat.com%2F&format=xml
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://takupkhdmat.com/wp-json/wp/v2/pages/44
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\wp-json\wp\v2\pages\44
+Content Type: application/json
+
+Uri: https://takupkhdmat.com/xmlrpc.php?rsd
+File Name: C:\Users\مركز الفكاش\Desktop\website\1\takupkhdmat.com\xmlrpc.php
+Content Type: text/xml
+
